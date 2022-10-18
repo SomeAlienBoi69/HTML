@@ -1,0 +1,12 @@
+html {
+    background-color: rgb(172, 240, 178);
+}
+#Strona {
+    color:black; font-size:60px; text-align:center;
+}
+#pole_wyszukiwania {
+    margin-left: 40%;
+}
+#kategorie {
+    text-align: center; text-decoration: none;
+}

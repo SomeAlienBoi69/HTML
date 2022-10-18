@@ -1,0 +1,9 @@
+#Strona {
+    color:white; font-size:60px; text-align:center;
+}
+#przycisk1 {
+    text-decoration: none; font-size: 50px;
+}
+#zdjęcie1 {
+    border-style:outset; border-color: limegreen;
+}
