@@ -1,0 +1,123 @@
+p {
+    display: inline;
+    font-size: 40px;
+    margin-top: 0px;
+  }
+
+body {
+    font-family: 'Mountains of Christmas';
+}
+
+html {
+    background-image: url(/img/bg.jpg);
+}
+
+#choinka {
+    position: fixed;
+    top: 20%;
+}
+#choinka2 {
+    position: fixed;
+    top: 20%;
+    right: -30%;
+}
+
+#renifer {
+    position: fixed;
+    top: 35%;
+    left: 47%;
+}
+
+#days {
+    color: red;
+}
+
+#hours {
+    color: green;
+}
+
+#mins {
+    color: blue;
+}
+
+#secs {
+    color: red;
+}
+
+.container {
+    position: fixed;
+    left: 45%;
+    top: 45%;
+    background-color: rgba(247, 240, 240, 0.842);
+}
+
+
+.redCircle, .greenCircle, .blueCircle, .redCircle2 {
+    position: fixed;
+    border-radius: 50%;
+    height: 36%;
+    width: 18%;
+}
+
+.redCircle {
+    background-color: red;
+    top: 5%;
+}
+
+.redCircle2 {
+    background-color: red;
+    top: 0%;
+    left: 75%;
+}
+
+.greenCircle {
+    background-color: green;
+    top: 0%;
+    left: 25%;
+}
+
+.blueCircle {
+    background-color: blue;
+    top: 5%;
+    left: 50%;
+}
+
+.toppingRed {
+    position: fixed;
+    border-radius: 50%;
+    height: 10%;
+    width: 4%;
+    background-color: rgb(207, 204, 10);
+    left: 7.5%;
+    top: -2%;
+}
+
+.toppingRed2 {
+    position: fixed;
+    border-radius: 50%;
+    height: 10%;
+    width: 4%;
+    background-color: rgb(207, 204, 10);
+    left: 82%;
+    top: -6%;
+}
+
+.toppingGreen {
+    position: fixed;
+    border-radius: 50%;
+    height: 10%;
+    width: 4%;
+    background-color: rgb(207, 204, 10);
+    left: 32%;
+    top: -6%;
+}
+
+.toppingBlue {
+    position: fixed;
+    border-radius: 50%;
+    height: 10%;
+    width: 4%;
+    background-color: rgb(207, 204, 10);
+    left: 57%;
+    top: -2%;
+}
